@@ -1,14 +1,13 @@
-
 Monash Uni Full Flex Stack Coding Bootcamp
 Homework assignment: Week One ; Code Refactor
 
 Problem:
-Given a website with code that doesn't utilise semantic elements and good accessibility structure.
+Given a website with code that doesn't utilise semantic elements and have a good accessibility structure.
 
 Solution:
-Integrate 
+Integrated semantic tags, cleaned css structure to remove unecessary elements/classes/ids and resturctured both HTML and CSS files to be neat and tidy.
 
-Requested work was as follows:
+The requested work was as follows:
 
 01 HTML CSS Git: Code Refactor
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -39,12 +38,8 @@ THEN I find a concise, descriptive title
 Review
 You are required to submit the following for review:
 
-
 The URL of the deployed application.
 
-
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
