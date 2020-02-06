@@ -75,14 +75,14 @@ p {
   margin-left: 25px;
 }
 
-section {
+main {
   display: inline-block;
-  overflow: hidden;
+  height; 
   width: 75%;
   margin-left: 20px;
 }
 
-section article {
+main section {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -91,11 +91,11 @@ section article {
   color: #ffffff;
 }
 
-article img {
+section img {
   max-height: 200px;
 }
 
-article h2 {
+section h2 {
   margin-bottom: 20px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 36px;
