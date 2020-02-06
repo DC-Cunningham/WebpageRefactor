@@ -5,7 +5,7 @@ Problem:
 Given a website with code that doesn't utilise semantic elements and have a good accessibility structure.
 
 Solution:
-Integrated semantic tags, cleaned css structure to remove unecessary elements/classes/ids and resturctured both HTML and CSS files to be neat and tidy.
+Integrated semantic tags, cleaned css structure to remove unnecessary elements/classes/ids and restructured both HTML and CSS files to be neat and tidy.
 
 The requested work was as follows:
 
